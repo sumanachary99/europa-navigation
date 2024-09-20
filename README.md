@@ -17,12 +17,16 @@ The Europa Navigation Module is a Python-based solution for NASA's mission to ex
 4. Input the following values interactively:
 
    5 5
+   
    1 2 N
+   
    LMLMLMLMM
+   
    3 3 E
+   
    MMRMMRMRRM
    
-5. Expected output:
+6. Expected output:
 
    1 3 N
    5 1 E
