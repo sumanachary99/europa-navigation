@@ -6,15 +6,16 @@ The Europa Navigation Module is a Python-based solution for NASA's mission to ex
 1. Clone the repository:
 
    git clone https://github.com/your-username/europa_mission.git
+   
    cd europa_mission
    
-2. Install dependencies (if any). This script only uses Python's built-in libraries, so no extra dependencies are needed.
+3. This script only uses Python's built-in libraries, so no extra dependencies are needed.
 
-3. Run the program:
+4. Run the program:
 
    python main.py
    
-4. Input the following values interactively:
+5. Input the following values interactively:
 
    5 5
    
